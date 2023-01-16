@@ -18,7 +18,7 @@ This static site generator builds in a human-readable state for the purpose of n
 - ejs:partial
 - ejs:layout
 - ejs:sitemap
-- devserver:soruce browser
+- devserver:Browser Sync
 - scss
 
 ## recommended libraries
