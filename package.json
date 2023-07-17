@@ -4,8 +4,8 @@
   "description": "",
   "main": "lib/index.mjs",
   "scripts": {
-    "exmain": "npm run main dev -- /c/Users/label/git/handcraft/test/basic",
-    "main": "node lib/bin/handcraft.mjs",
+    "ex1": "npm run bin -- dev /c/Users/label/git/handcraft/test/basic",
+    "bin": "node lib/bin/handcraft.mjs",
     "start": "node lib/scripts/dev.mjs",
     "dev": "node lib/scripts/dev.mjs",
     "build": "node lib/scripts/dev.mjs"

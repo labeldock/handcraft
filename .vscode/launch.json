@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "command": "yarn ex1",
+      "name": "Run ex1",
+      "request": "launch",
+      "type": "node-terminal"
+    }
+  ]
+}
